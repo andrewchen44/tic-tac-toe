@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Command line tic tac toe game",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewchen44/tic-tac-toe.git"
+  },
+  "author": "Andrew chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewchen44/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/andrewchen44/tic-tac-toe#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
